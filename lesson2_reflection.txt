@@ -2,4 +2,6 @@ reflection on lession2
 Git repository 
 
 Staging is the intermidiate state between a working dir and the repositary. 
-Staging put files that are useful to be on track while keeping the non-useful one away. 
+Staging put files that are useful to be on track while keeping the non-useful one away.
+
+Using staging area, we can change all the things to improve the program and commit each of the files changed one at a time.  
