@@ -1,0 +1,21 @@
+Learning how to use GIT
+Version control is important, I guess it's time for me to take it more seriously as my program time is growing. 
+Picking up typos and figuring out why the new version doesn't work will be a big part of debugging. 
+After a successful build is made. 
+Commit a new version. 
+git log 
+git diff [id1] [id2]
+Pros: easier to follow since the changes made is logical 
+Cons: may need to commit too much or too less.
+
+git log --stat [id]
+Tracking multi files make more sense for programmer. 
+
+Easily count how many lines of change are there. 
+
+git checkout [id]
+checkout a certain version of the repository
+
+seeing the changes and seeing the program back to work as intended make debug easier 
+
+time to start using GIT
