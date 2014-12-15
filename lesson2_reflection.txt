@@ -1,2 +1,5 @@
 reflection on lession2
 Git repository 
+
+Staging is the intermidiate state between a working dir and the repositary. 
+Staging put files that are useful to be on track while keeping the non-useful one away. 
