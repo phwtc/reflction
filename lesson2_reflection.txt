@@ -5,3 +5,10 @@ Staging is the intermidiate state between a working dir and the repositary.
 Staging put files that are useful to be on track while keeping the non-useful one away.
 
 Using staging area, we can change all the things to improve the program and commit each of the files changed one at a time.  
+
+Branches allow different sub version based on one major version. 
+In terms of history, since we don't have to roll back and forth, it makes it clear that what have been changed. 
+
+Branch diagram let us to see what is changed starting from where. 
+
+Branch merge is useful for multi-user editing. auto merging is useful when changes are obviously not conflict with each other. For example, A modify a.txt while B modify b.txt. No one touch c.txt. when commit, a and b will both get udpated by GIT automatically. If both A and B modify the same file c.txt, then problem need to be resolved by human. 
